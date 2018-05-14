@@ -8,11 +8,11 @@ Na flink wat brainstormen zijn we tot de volgende 3 ideeen gekomen
 
 ### Idee 1
 We vonden het in het begin toch iet wat lastig om op gang te komen, dus zijn we om inspiratie op te doen nog een keer richting de Ceuvel gereden. Daar aangekomen liepen we met zijn 3en over het terrein van de Ceuvel. Het begon eigenlijk vrijwel meteen te dagen. We wilde een informatieve website maken over wat er zich allemaal afspeelde op de Ceuvel. De website bevatte vrijwel alle informatie die je als nieuwe bezoeker van de Ceuvel wilde weten. Van het verbouwen van voedsel tot het huren van een werkplek. Hierbij zouden we inspelen op de bezoekers van de Ceuvel als stakeholder.
-![idee1](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.2.jpg)
+![idee1](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.2.jpeg)
 
 ### Idee 2
 We vonden met zijn 3en de stakeholder bezoekers van het restaurant erg intressant, dus wilde we daar ook wat voor bedenken. De uitgelezen mogelijkheid om de gebruiker aan te spreken was volgens ons als ze op hun eten zaten te wachten. We wilde de bezoeker van het restaurant graag informeren over hoe groen de Ceuvel eigenlijk wel niet is. Het idee was een verhaal te koppelen aan verschillende gerechten. Zo ook aan het gerecht met de Afrikaanse meervallen. We wilde de gebruiker vanaf de vangst van de meervallen tot het moment dat hij voor hen op het bord ligt meenemen in het procces. Dit moest zich uitten in een interactief verhaal met informatie. Een leuke feature was dat je bij elk gerecht een daarbij behorende servet met een QR-code voor dat gerecht kreeg. Als je deze scande, kwam je bij dit verhaal.
-![idee2](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.1.jpg)
+![idee2](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.1.jpeg)
 
 ### Idee 3
 Idee 3 is ongeveer de zelfde opzet als idee 2. Maar deze keer hadden we bedacht een spel te maken wat de gasten van het restaurant kunnen spelen als zij op hun eten zitten te wachten. In het spel wordt er een wisselwerking gecreeerd tussen de Afrikaanse meervallen en de kas.
