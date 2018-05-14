@@ -1,0 +1,182 @@
+<% include head %>
+
+<div id="leaderboard">
+  <h1>Leaderboard</h1>
+  <ol>
+
+  </ol>
+</div>
+<div class="none" id="submitScore">
+  <div class="">
+    <h1>Goed gedaan!</h1>
+    <div id="endText">
+      <p>Je score is </p>
+      <span id="eindScore">503</span>
+    </div>
+    <form class="" action="index.html" method="post">
+      <input id="uploadName" pattern=".{3,15}" type="text" name="naam" value="" placeholder="Naam">
+      <button id="upload" type="submit" name="button">Upload Score</button>
+    </form>
+  </div>
+</div>
+<div class="timerholder">
+  <p id="timer"></p>
+</div>
+<div class="inventory">
+  <div class="inv_item">
+    <img class="inv_zaadjes inv_detail" src="art/algenzaadjes.svg" alt="">
+    <p id="zaadjes">3</p>
+  </div>
+  <div class="inv_item">
+    <img class="inv_voer inv_detail" src="art/vissenvoer.svg" alt="">
+    <p id="voer">3</p>
+  </div>
+</div>
+<div id="ammoniaMeter">
+  <div id="ammoniaIndicator" style="height:20%;">
+
+  </div>
+</div>
+<div class="popup">
+  <div class="blur none"></div>
+  <div class="harvest none">
+    <h1>Hoe wil je je oogst?</h1>
+    <p id="optie1">2 vissenvoer 1 zaadje</p>
+    <p id="optie2">1 vissenvoer 2 zaadjes</p>
+    <p id="optie3">3 vissenvoer 0 zaadje</p>
+  </div>
+  <div id="visInfo" class="visinfo none">
+    <h1>Vis-gegevens</h1>
+    <div class="vis-gegevens">
+      <p>Naam</p>
+      <p id="vis_naam"></p>
+    </div>
+    <div class="vis-gegevens">
+      <p>Soort</p>
+      <p>Afrikaanse Meerval</p>
+    </div>
+    <div class="vis-gegevens">
+      <p>Grootte</p>
+      <p id="vis_grootte"></p>
+    </div>
+    <div class="vis-gegevens">
+      <p>Honger</p>
+      <p id="vis_honger"></p>
+    </div>
+    <div class="vis-gegevens">
+      <p>Gezondheid</p>
+      <p id="vis_gezondheid"></p>
+    </div>
+    <div class="vis-foto">
+      <p>Foto</p>
+      <img src="art/vis.svg" alt="">
+      <div class="buttons">
+        <div class="voerknop">
+          <p>Voer</p>
+        </div>
+        <div id="sluitVisMenu" class="">
+          <p>sluit</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+<div id="location">
+  <div class="verander_verdieping">
+    <p>Naar de Vissen</p>
+  </div>
+  <section id="kas">
+    <div class="gewassen">
+      <div class="bak" id="bak0">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+         <div id="star" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak1">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+         <div id="star" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak2">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+         <div id="star" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak3">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+         <div id="star" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak4">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+        <div id="star" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak5">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+         <div id="star2" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak6">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+        <div id="star2" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak7">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+        <div id="star2" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak8">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+        <div id="star2" class="none"></div>
+        <p></p>
+      </div>
+      <div class="bak" id="bak9">
+        <img src="art/small_crop.svg" class="invisible" alt="">
+        <div id="star2" class="none"></div>
+        <p></p>
+      </div>
+    </div>
+  </section>
+  <section id="viskweek">
+    <div id="beaker">
+      <span class="bubble">
+ <!-- <span class="glow"> </span> -->
+      </span>
+      <span class="bubble2">
+ <!-- <span class="glow"> </span> -->
+      </span>
+      <span class="bubble3">
+ <!-- <span class="glow"> </span> -->
+      </span>
+      <span class="bubble4">
+ <!-- <span class="glow"> </span> -->
+      </span>
+    </div>
+    <div class="vissenkom">
+      <!-- <div class="vissen"> -->
+      <div class="vissie">
+        <img id="vis1" src="art/vis.svg" style="width: 4em;" alt="">
+      </div>
+      <div class="vissie">
+        <img id="vis2" src="art/vis.svg" style="width: 4em;" alt="">
+      </div>
+      <div class="vissie">
+        <img id="vis3" src="art/vis.svg" style="width: 4em;" alt="">
+      </div>
+      <!-- </div> -->
+    </div>
+    <div id="ammoniakmachine">
+      <img src="art/ammoniakmachine.svg" alt="" />
+    </div>
+    <div id="indicator">
+      <img src="art/indicator.svg" alt="" />
+    </div>
+    <div id="kleurcontainer">
+      <div id="kleur"></div>
+    </div>
+  </section>
+</div>
+
+  <% include footer %>

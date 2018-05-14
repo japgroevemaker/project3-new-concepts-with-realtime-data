@@ -8,13 +8,16 @@ Na flink wat brainstormen zijn we tot de volgende 3 ideeen gekomen
 
 ### Idee 1
 We vonden het in het begin toch iet wat lastig om op gang te komen, dus zijn we om inspiratie op te doen nog een keer richting de Ceuvel gereden. Daar aangekomen liepen we met zijn 3en over het terrein van de Ceuvel. Het begon eigenlijk vrijwel meteen te dagen. We wilde een informatieve website maken over wat er zich allemaal afspeelde op de Ceuvel. De website bevatte vrijwel alle informatie die je als nieuwe bezoeker van de Ceuvel wilde weten. Van het verbouwen van voedsel tot het huren van een werkplek. Hierbij zouden we inspelen op de bezoekers van de Ceuvel als stakeholder.
+![idee1](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.2.jpg)
 
 ### Idee 2
 We vonden met zijn 3en de stakeholder bezoekers van het restaurant erg intressant, dus wilde we daar ook wat voor bedenken. De uitgelezen mogelijkheid om de gebruiker aan te spreken was volgens ons als ze op hun eten zaten te wachten. We wilde de bezoeker van het restaurant graag informeren over hoe groen de Ceuvel eigenlijk wel niet is. Het idee was een verhaal te koppelen aan verschillende gerechten. Zo ook aan het gerecht met de Afrikaanse meervallen. We wilde de gebruiker vanaf de vangst van de meervallen tot het moment dat hij voor hen op het bord ligt meenemen in het procces. Dit moest zich uitten in een interactief verhaal met informatie. Een leuke feature was dat je bij elk gerecht een daarbij behorende servet met een QR-code voor dat gerecht kreeg. Als je deze scande, kwam je bij dit verhaal.
+![idee2](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee2.1.jpg)
 
 ### Idee 3
 Idee 3 is ongeveer de zelfde opzet als idee 2. Maar deze keer hadden we bedacht een spel te maken wat de gasten van het restaurant kunnen spelen als zij op hun eten zitten te wachten. In het spel wordt er een wisselwerking gecreeerd tussen de Afrikaanse meervallen en de kas.
 Op deze manier wordt de gebruiker op spelenderwijs iets geleerd over de bezigheden op de Ceuvel.
+![Mindmap](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/idee3.1.jpg)
 
 ### Conclusie
 Na wat onderzoek kwamen we er al snel achter dat idee 1 al bestaat. De huidige website van de Ceuvel omvat ook al deze elementen en ziet er erg modern uit. Dit idee hebben we snel afgestreept.
@@ -25,3 +28,5 @@ Toen we weer bij elkaar kwamen om te bespreken wat we konden verbeteren aan idee
 
 ## Concept
 Zoals eerder al beschreven willen wij de gasten van het restaurant via een game de wisselwerking tussen het aquarium en de kas simuleren. De gebruiker begint met een speluitleg. Vervolgens begint het spel. Je begint bij de kas. Je hebt 3 stukken vissenvoer en 3 zaadjes. Vervolgens plant je een zaadje, daar groeit een plantje uit. Daarna druk je op de knop die je naar het aquarium brengt. Daar zie je de tank met de Afrikaanse meervallen. Je klikt op een van de meervallen om hun status te zien. Vervolgens geef je ze eten. Voor het voeren van een vis krijg je 1 punt. Als je ze eten gegeven hebt, beginnen ze met het uitscheiden van ammoniak. De meter aan de linkerkant van de tank geeft aan hoeveel ammoniak er in de tank zit. Door op de filter aan de rechterkant te klikken zorg je ervoor dat de ammoniak naar de kas getransporteerd wordt. Door dat te doen zorg je ervoor dat de planten gaan groeien. Vervolgens kan je de planten oogsten door op een volgroeid plantje te klikken. Je krijgt dat de keuze om er of alleen maar zaadjes om te planten van te maken, of om er ook vissenvoer van te maken. Voor het oogsten van een plantje krijg je 3 punten. Je krijgt 5 minuten de tijd om zoveel mogelijk punten te halen. Na die 5 minuten kan je je score submitten. en kom je op een leaderbord te staan.
+![Eindidee](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/eind1.jpg)
+![Eindidee](https://github.com/japgroevemaker/project3-new-concepts-with-realtime-data/blob/master/image/eind2.jpg)

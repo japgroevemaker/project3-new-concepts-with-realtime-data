@@ -1,0 +1,125 @@
+@font-face {
+    font-family: hipstelvetica;
+    src: url(../font/hipstelvetica.ttf);
+}
+
+*{
+  overflow-y: hidden;
+  font-family: helvetica;
+  font-weight: 300;
+  outline: 0;
+}
+
+body{
+  background-image: url('../beeld/kas.svg');
+  background-repeat: no-repeat;
+  background-size: 100%;
+  font-family: sans-serif;
+}
+
+.none{
+  display: none;
+}
+
+h1 {
+  font-family: hipstelvetica
+}
+
+section {
+  display: flex;
+  flex-direction: column;
+  background-color: #fff;
+  width: 80%;
+  padding: 2em;
+  height: auto;
+  margin: 2em auto;
+  border-radius: 3em;
+}
+
+.image{
+  display: flex;
+  flex-direction: row;
+}
+
+#harvest{
+  background-image: url('../beeld/harvest.jpg');
+  background-repeat: no-repeat;
+  background-size: 90%;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+
+#fish{
+  background-image: url('../beeld/Fish.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+
+#fishStatus{
+  background-image: url('../beeld/feeding.jpg');
+  background-size: 110%;
+  background-repeat: no-repeat;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+
+#ammoniak{
+  background-image: url('../beeld/ammoniak.jpg');
+  background-size: 110%;
+  background-repeat: no-repeat;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+
+#meter{
+  background-image: url('../beeld/meter.jpg');
+  background-size: 40%;
+  background-position: bottom;
+  background-repeat: no-repeat;
+  width: 10em;
+  height: 10em;
+  margin: auto;
+}
+
+#filled{
+  background-image: url('../beeld/full.jpg');
+  background-size: 100%;
+  background-repeat: no-repeat;
+  width: 20em;
+  height: 10em;
+  margin: auto;
+}
+
+#zero-state h1{
+  text-align: center;
+  font-size: 2em;
+}
+
+#zero-state p{
+  width: 70%;
+  margin: auto;
+  line-height: 1.5em;
+}
+
+button{
+  background-color: darkorange;
+  border: none;
+  border-radius: 1em;
+  font-size: 1em;
+  padding: 1em;
+  width: 10em;
+  transition: all 0.3s ease-in-out
+}
+
+.buttons{
+  text-align: center;
+  position: fixed;
+  bottom: 3em;
+  width: 100%;
+}
